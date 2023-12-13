@@ -5,8 +5,8 @@
       "artist": "Hoàng Dũng",
       "songName": "Đoạn kết mới",
       "files": {
-        "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/1.mp3",
-        "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/1.jpg"
+        "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/1.mp3",
+        "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/1.jpg?raw=true"
       }
     },
     {
@@ -14,8 +14,8 @@
       "artist": "Hà Anh Tuấn",
       "songName": "Người con gái ta thương",
       "files": {
-        "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/2.mp3",
-        "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/2.jpg"
+        "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/2.mp3",
+        "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/2.jpg?raw=true"
       }
     },
     {
@@ -23,8 +23,8 @@
       "artist": "Da LAB",
       "songName": "Hẹn em mai sau gặp lại",
       "files": {
-       "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/3.mp3",
-       "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/3.jpg"
+       "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/3.mp3",
+       "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/3.jpg?raw=true"
       }
     },
     {
@@ -32,8 +32,8 @@
       "artist": "Suni Hạ Linh",
       "songName": "Sự mập mờ",
       "files": {
-      "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/4.mp3",
-      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/4.jpg"
+      "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/4.mp3",
+      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/4.jpg?raw=true"
       }
     },
     {
@@ -41,8 +41,8 @@
       "artist": "Hà Nhi",
       "songName": "Vì em chưa bao giờ khóc",
       "files": {
-      "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/5.mp3",
-      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/5.jpg"
+      "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/5.mp3",
+      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/5.jpg?raw=true"
       }
     },
     {
@@ -50,8 +50,8 @@
       "artist": "Vũ Cát Tường",
       "songName": "Người bình thường",
       "files": {
-      "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/6.mp3",
-      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/6.jpg"
+      "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/6.mp3",
+      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/6.jpg?raw=true"
       }
     },
     {
@@ -59,8 +59,8 @@
       "artist": "Hiền Hồ",
       "songName": "Gặp nhưng không ở lại",
       "files": {
-      "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/7.mp3",
-      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/7.jpg"
+      "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/7.mp3",
+      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/7.jpg?raw=true"
       }
     },
     {
@@ -68,8 +68,8 @@
       "artist": "Quân AP",
       "songName": "Lời xin lỗi vụng về",
       "files": {
-      "song": "https://github.com/huanpham15101999/music-player-widget/blob/main/8.mp3",
-      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/8.jpg"
+      "song": "https://github.com/huanpham15101999/music-player-widget/raw/main/7.mp3",
+      "cover": "https://github.com/huanpham15101999/music-player-widget/blob/main/8.jpg?raw=true"
       }
     }
   ]
